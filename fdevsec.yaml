@@ -1,13 +1,13 @@
 version: v1
 
 id:
-  org: 6a4d32db-6751-441a-88fe-9b4793717cde
-  app: aa8a393b-afc6-47d7-84d2-b7011f1d0012    
+  org: c61fe11c-a251-4713-abe9-54d0c416b749
+  app: 191e1a03-31d2-47c5-889d-749f10cd386b   
 
 # Optional parameters.
 scanners:
   - sast
-  - dast
+  # - dast 
   - secret
   - sca
   - iac
